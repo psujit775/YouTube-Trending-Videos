@@ -6,7 +6,7 @@
  * Version: 1.0
  * Author: Sujit Patel
  * Author URI:
- * License: GPL2
+ * License: GPL3
  */
 
 function yt_trending_videos_settings_init() {
