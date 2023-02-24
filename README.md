@@ -18,11 +18,14 @@ You can display the trending videos on any page or post using the [yt_trending_v
 # Settings
 
 To access the plugin settings, go to Settings > YouTube Trending Videos. Here you can enter your YouTube API key and country. The plugin will use the country specified here to display the trending videos.
-Shortcode Parameters
 
-The [yt_trending_videos] shortcode supports the following parameters:
+## Shortcode Parameters
 
-    country - The country to display the trending videos for. This parameter overrides the country specified in the plugin settings. Example: [yt_trending_videos country="IN"].
+The `[yt_trending_videos]` shortcode supports the following parameters:
+
+country - The country to display the trending videos for. This parameter overrides the country specified in the plugin settings. 
+
+Example: `[yt_trending_videos country="IN"]`.
 
 # Examples
 
