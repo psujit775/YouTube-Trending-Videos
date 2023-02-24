@@ -2,6 +2,8 @@
 
 This plugin displays a list of YouTube trending videos on your website. The plugin provides an admin page where you can enter your YouTube API key and country. You can get a key from the Google Cloud Console.
 
+Google Cloud Console : https://console.developers.google.com/apis/credentials
+
 
 # Installation
 
