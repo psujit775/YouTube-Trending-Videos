@@ -1,0 +1,37 @@
+.yt-trending-videos li:hover {
+	transition: transform 0.3s;
+  transform: scale(1.1);
+}
+
+.yt-trending-videos li {
+  align-items: center;
+  margin-bottom: 20px;
+	display: table;
+	margin-top: 10px;
+	margin-right: 0px;
+	text-align: left;
+	border: 1px solid #777;
+	padding: 10px;
+	box-shadow: 0 10px 6px -6px #777;
+	margin-left: 0px;
+	width: 100%;
+	border-radius: 5px;
+
+}
+
+.yt-trending-videos img {
+	float: left;
+	border-radius: 15px;
+
+}
+
+.yt-trending-videos h4 {
+	padding-left: 350px;
+	font-weight: bold;
+	font-family: Monospace;
+}
+
+
+.yt-trending-videos p {
+	padding-left: 350px;
+}
